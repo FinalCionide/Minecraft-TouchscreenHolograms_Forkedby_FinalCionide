@@ -1,0 +1,9 @@
+Touchscreen Holograms contains code from the following third party projects, listed with their license information.
+
+[bStats Metrics]
+URL: https://github.com/Bastian/bStats-Metrics
+License: GNU Lesser General Public License v3.0
+
+Original Author, filoghost - All Rights Reserved. 2022. 
+https://filoghost.me/
+Forked by FinalCionide and updated to 1.18.1
